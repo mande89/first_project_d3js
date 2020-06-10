@@ -1,0 +1,61 @@
+[{
+		"coordx": 1,
+		"coordy": 1,
+		"wingsSize": 20,
+		"headSize": 40,
+		"abdomenSize": 40
+	},{
+		"coordx": 20,
+		"coordy": 20,
+		"wingsSize": 10,
+		"headSize": 30,
+		"abdomenSize": 20
+	},{
+		"coordx": 50,
+		"coordy": 25,
+		"wingsSize": 10,
+		"headSize": 10,
+		"abdomenSize": 10
+	},{
+		"coordx": 150,
+		"coordy": 180,
+		"wingsSize": 10,
+		"headSize": 10,
+		"abdomenSize": 10
+	},{
+		"coordx": 60,
+		"coordy": 75,
+		"wingsSize": 10,
+		"headSize": 60,
+		"abdomenSize": 90
+	},{
+		"coordx": 350,
+		"coordy": 455,
+		"wingsSize": 90,
+		"headSize": 90,
+		"abdomenSize": 90
+	},{
+		"coordx": 167,
+		"coordy": 149,
+		"wingsSize": 30,
+		"headSize": 20,
+		"abdomenSize": 40
+	},{
+		"coordx": 35,
+		"coordy": 55,
+		"wingsSize": 10,
+		"headSize": 50,
+		"abdomenSize": 90
+	},{
+		"coordx": 94,
+		"coordy": 14,
+		"wingsSize": 60,
+		"headSize": 60,
+		"abdomenSize": 60
+	},{
+		"coordx": 111,
+		"coordy": 64,
+		"wingsSize": 30,
+		"headSize": 90,
+		"abdomenSize": 10
+	}]
